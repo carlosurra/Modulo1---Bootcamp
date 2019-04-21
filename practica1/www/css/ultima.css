@@ -1,0 +1,28 @@
+@import 'generico.css';
+section.contacto {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 1rem;
+}
+
+aside {
+    background: lightgray;
+    border: 2px solid darkgray;
+    margin: 1rem;
+}
+
+div.dire {
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 1rem;
+}
+
+h2.dir {
+    margin: 1rem;
+}
+
+div.dire img {
+    width: 100%;
+    margin-top: 1rem;
+}

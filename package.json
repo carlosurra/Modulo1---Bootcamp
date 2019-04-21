@@ -1,0 +1,23 @@
+{
+  "name": "Modulo1---Bootcamp",
+  "version": "1.0.0",
+  "description": "Módulo 1 - HTML y CSS.  El curso dirigido al desarrollo y diseño de páginas web utilizando estándares y HTML5 y CSS3 de una manera ágil, escalable y productiva para diferentes dispositivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosurra/Modulo1---Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosurra/Modulo1---Bootcamp/issues"
+  },
+  "homepage": "https://github.com/carlosurra/Modulo1---Bootcamp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

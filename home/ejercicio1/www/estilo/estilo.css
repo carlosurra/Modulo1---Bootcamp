@@ -1,0 +1,45 @@
+body {
+    background: lightgray;
+    margin: 4rem;
+    font-family: sans-serif;
+}
+
+section {
+    background: white;
+    width: 70%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+article {
+    background: lightblue;
+    border: 2px solid gray;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    display: flex;
+}
+
+article figure {
+    max-width: 20%;
+    order: -1;
+    overflow: hidden;
+    margin: 0 2rem 0 0;
+}
+
+article figure img {
+    max-width: 100%;
+}
+
+article header a {
+    background: rgb(43, 102, 156);
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 12px;
+    display: inline-block;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
